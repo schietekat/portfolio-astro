@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/sourcehut-build-0.65.0.json": "file:///c%3A/Users/balbe/Documents/Portafolio-2024/portfolio-astro/.github/workflows/deploy.yml"
+    }
+}
